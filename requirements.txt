@@ -1,0 +1,9 @@
+quart
+hypercorn
+motor==3.3.2
+pymongo==4.6.0
+Pillow==10.1.0
+matplotlib==3.8.2
+psutil==5.9.6
+python-dotenv==1.0.0
+requests
